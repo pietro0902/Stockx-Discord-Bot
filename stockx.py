@@ -3,7 +3,7 @@ from discord.ext import commands
 import json
 import requests
 
-token = 'YOUR TOKEN HERE'
+token = NjA2NDE1ODU3OTA3OTI1MDAy.XUKvSA.Z19rOp4koPlksaXAfqfciFqC5Yw
 # Change the prefix if you want
 client = commands.Bot(command_prefix = '.')
 client.remove_command('help')
